@@ -44,8 +44,8 @@ To ensure the API is functioning correctly, use the following command to run the
 
 ```bash
 pytest test_library_api.py
-
+```
 ## Repository URL
 
-[Postman Documentation](https://web.postman.co/workspace/3eff8e01-b788-43a7-8a3a-2483af167c4f/overview)
+[Postman Documentation](https://www.postman.com/rosansen/library/collection/t2g61jd/library-api?action=share&creator=20930953)
 
