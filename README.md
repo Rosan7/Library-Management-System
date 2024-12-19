@@ -47,5 +47,5 @@ pytest test_library_api.py
 ```
 ## Repository URL
 
-[Postman Documentation](https://www.postman.com/rosansen/library/collection/t2g61jd/library-api?action=share&creator=20930953)
+[Postman Documentation](https://www.postman.com/rosansen/library/documentation/t2g61jd/library-api)
 
