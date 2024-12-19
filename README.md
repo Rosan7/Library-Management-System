@@ -38,6 +38,13 @@ This is a Flask-based Library Management API that provides endpoints to manage b
     "password": "rosansen7"
   }
 
+## Running Tests
+
+To ensure the API is functioning correctly, use the following command to run the automated test suite:
+
+```bash
+pytest test_library_api.py
+
 ## Repository URL
 
 [Postman Documentation](https://web.postman.co/workspace/3eff8e01-b788-43a7-8a3a-2483af167c4f/overview)
