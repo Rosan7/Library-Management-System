@@ -10,7 +10,7 @@ This is a Flask-based Library Management API that provides endpoints to manage b
 - RESTful API design.
 
 ## Requirements
-- Python 3.7+
+- Python 3.10
 - Flask
 - Flask-SQLAlchemy
 - PyJWT
